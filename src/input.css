@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@utility container{
+    width: 1170px;
+    margin: auto;
+}
+@theme {
+  --font-inter: "Inter", sans-serif; 
+}
+svg:hover path{
+ color: black;
+}
+
+ul li{
+  height: 46px;
+}
